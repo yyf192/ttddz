@@ -1,0 +1,14 @@
+# VS Code
+.vscode/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编译文件
+*.class
+*.jar
+*.pyc
